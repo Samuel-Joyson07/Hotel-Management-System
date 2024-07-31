@@ -1,2 +1,2 @@
-A complete website that manages all the basic functions and requirements of a hotel.
+The "Inn Keeping System" project focuses on developing an integrated software solution to streamline the management of small to medium-sized inns, bed and breakfasts, and guest houses. This system aims to enhance operational efficiency, improve guest experience, and provide comprehensive tools for managing reservations, billing, housekeeping, and customer relations.
 Written using Java Swing framework.
